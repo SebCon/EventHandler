@@ -1,5 +1,6 @@
 # EventHandler
 register callbacks for browser/self-created events, handling and executing callbacks
+
 **using this module for big JS or AngularJs Projects - more powerful and a better handling - replace all Listener or ng-click funtions with this functionality** 
 
 ## Getting Started
