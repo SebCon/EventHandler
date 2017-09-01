@@ -1,6 +1,6 @@
 # EventHandler
 register callbacks for browser/self-created events, handling and executing callbacks
-using this module for big JS or AngularJs Projects, replace all Listener or ng-click funtions with this functionality 
+**using this module for big JS or AngularJs Projects - more powerful and a better handling - replace all Listener or ng-click funtions with this functionality** 
 
 ## Getting Started
 
@@ -14,7 +14,7 @@ Download the file EventHandler.js and link them in your project like:
 ```
 or without downloading files like
 ```html
-<script src="https://rawgit.com/SebCon/lof/master/lof.js"></script>
+<script src="https://rawgit.com/SebCon/EventHandler/master/EventHandler.js"></script>
 ```
 
 ### Example
